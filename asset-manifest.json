@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kakao-app/static/css/main.073c9b0a.css",
-    "main.js": "/kakao-app/static/js/main.bd116f92.js",
-    "index.html": "/kakao-app/index.html",
-    "main.073c9b0a.css.map": "/kakao-app/static/css/main.073c9b0a.css.map",
-    "main.bd116f92.js.map": "/kakao-app/static/js/main.bd116f92.js.map"
+    "main.css": "/kakao-map/static/css/main.073c9b0a.css",
+    "main.js": "/kakao-map/static/js/main.bd116f92.js",
+    "index.html": "/kakao-map/index.html",
+    "main.073c9b0a.css.map": "/kakao-map/static/css/main.073c9b0a.css.map",
+    "main.bd116f92.js.map": "/kakao-map/static/js/main.bd116f92.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
